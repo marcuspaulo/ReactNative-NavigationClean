@@ -1,7 +1,4 @@
-# Projeto em React-Native - Listar Repositórios e Organizações do Usuário do Github
-
-#Tela de Login
-![Tela de Login](/images/loginx.png)
+# Projeto em React-Native - Com Navigation (Routes, Reactotron, Redux) Limpo
 
 # Criando um projeto em React-native
 
